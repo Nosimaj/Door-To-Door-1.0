@@ -1,4 +1,4 @@
-# Nosimaj-GPT
+# Door To Door Repair 1.0
 
 I designed and coded a a few PHP-based GPT chatbots to learn the technology better. This one is prompted to act like a hipster bike mechanic and offer advice accordingly. I used PHP b/c I already knew it well, but python and other languages can be used to. I just wanted to share that anyone can code AI, and that these API's are valuable prototpying tools.
 
