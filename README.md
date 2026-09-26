@@ -1,7 +1,7 @@
 # Door To Door Repair 1.0 
 # Current Door To Door version 3.0 - Migrated to Python
 
-This is where it all srtarted. Cmopanies had just started adopting AI, but it wasn't mature yet. I designed and coded a few PHP-based GPT chatbots to learn the technology better. "Lloyd" is prompted to act like a hipster bike mechanic, offer advice, and quote repairs accordingly. I used PHP b/c I already knew it well, but python and other languages can be used to. I just wanted to share that anyone can code AI, and that these API's are valuable prototpying tools.
+This is where it all srtarted. Companies had just started adopting AI, and I wanted to learn it. I designed and coded a few PHP-based GPT chatbots to learn the technology better. An AI designer named "<a href="youdontdesign.com">Nosimaj</a>" & "<a href="doortodoorrepair.com">Lloyd</a>" a hipster a hipster bike mechanic who offers advice, and a quote for repairs accordingly. I used PHP b/c I already knew it well, but these days we use a python stack (that I can't make public). But I wanted to share that anyone can code AI, especially now with "vibe coding". Dig in!
 
 ## READ MAIN PROMPTS
 - Check out the file: "gptchat.php" for how it all works basically, #promptsFTW
