@@ -1,4 +1,5 @@
-# Door To Door Repair 1.0 (Current DOor To Door = version 3.0 - Migrated to Python)
+# Door To Door Repair 1.0 
+# Current Door To Door version 3.0 - Migrated to Python
 
 This is where it all srtarted. Cmopanies had just started adopting AI, but it wasn't mature yet. I designed and coded a few PHP-based GPT chatbots to learn the technology better. "Lloyd" is prompted to act like a hipster bike mechanic, offer advice, and quote repairs accordingly. I used PHP b/c I already knew it well, but python and other languages can be used to. I just wanted to share that anyone can code AI, and that these API's are valuable prototpying tools.
 
